@@ -1,0 +1,11 @@
+#include<stdio.h>
+main() 
+{
+int a, b;
+Printf("enter a, b values") ;
+a=a+b;
+b=a-b;
+a=a-b;
+Printf("%d, %d"&a, &b) ;
+return 0() ;
+}
